@@ -1,0 +1,38 @@
+.App{
+  text-align: center;
+  background-color:black;
+  
+}
+
+.Net{
+  width: 30px;
+
+}
+
+.filtrage {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.movieList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 5%;
+  
+}
+.fa-star{
+  color: red;
+
+}
+
+.images{
+  width: 300px;
+  height:400px;
+}
+.h1{
+color:white;
+}
+.h2{
+  color:white;
+  }
